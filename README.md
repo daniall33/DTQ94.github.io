@@ -1,7 +1,3 @@
-# Data Science Project Portfolio
+## Data Science Projects
 
-##Education 
-
-##Work Experience
-
-###Projects
+Machine Learning
