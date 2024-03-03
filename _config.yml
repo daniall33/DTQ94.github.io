@@ -1,5 +1,5 @@
 #remote_theme: pages-themes/cayman@v0.2.0
-theme: jeykll-theme-cayman
 show_downloads: true
+theme: jekyll-theme-minimal
 description: [A Set of Data Science Relevant Projects]
 title: "Daniall Tahir Qureshi"
