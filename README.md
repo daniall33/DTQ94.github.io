@@ -7,11 +7,15 @@ My journey began with an Integrated Masters degree (a combination of undergrad &
 A petroleum engineer possesses a unique blend of analytical skills, domain expertise in the energy industry, and strong problem-solving abilities. With experience in analyzing complex geological data and optimizing production processes, a petroleum engineer is well-equipped to transition into data science. Familiarity with handling large datasets, statistical analysis, and programming languages like Python provides a solid foundation for tackling data-driven challenges. Moreover, the adaptability and learning agility honed in the dynamic energy sector make petroleum engineers adept at mastering new data science techniques and technologies, making them excellent candidates for roles in the field of data science.
 
 🎓 Data Science Certifications and Skills:
-Building on my engineering background, I pursued specialized training in data science, earning certifications from reputable institutions and platforms such as IBM, Udemy Data Science Bootcamp, and others. These certifications include:
+Building on my engineering background, I pursued specialized training in data science, earning certifications from reputable institutions and platforms.
+
+These certifications include:
 
 - IBM Data Science Professional Certificate
 - Udemy Data Science Bootcamp Certification
-- Natural Language Processing Certification 
+- Natural Language Processing Certification
+- Business Intelligence & Data Analyst Training by AI Datayard
+- Python Specialisation by University of Michigan 
 
 These certifications have equipped me with advanced skills in machine learning, big data analytics, and predictive modeling. Additionally, they have enhanced my expertise in statistical analysis, data visualization, and other key techniques, enabling me to extract valuable insights from vast amounts of data across multiple domains.
 
