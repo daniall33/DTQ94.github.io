@@ -26,7 +26,9 @@ I have applied my expertise in both petroleum engineering and data science domai
 ## 🔍 GitHub Portfolio Highlights:
 
 Predictive Modeling and Forecasting:
-Project 1: [Brief description of a notable predictive modeling project, showcasing key techniques used and insights gained]
+Project 1: [Sports Analytics Using Regression Models Built using Numpy & Pandas](https://github.com/dtq94/Sports-Analytics-using-Regression-Models-from-Scratch)
+Project 2: [Sports Analytics Using Multiple Linear Regression Model](https://github.com/dtq94/Sports-Analytics-using-Multiple-Linear-Regression-Model)
+Project 3: [Customer Churn Predictive Analytics Using Logistic Regression Model](https://github.com/dtq94/Customer-Churn-Predictive-Analytics-using-Logistic-Regression-Model)
 
 Exploratory Data Analysis (EDA) and Feature Engineering:
 Project 2: [Description of a significant EDA project demonstrating expertise in feature engineering and data preprocessing]
