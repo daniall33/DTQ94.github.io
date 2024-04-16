@@ -11,11 +11,11 @@ Building on my engineering background, I pursued specialized training in data sc
 
 These certifications include:
 
-- IBM Data Science Professional Certificate
-- Udemy Data Science Bootcamp Certification
-- Natural Language Processing Certification
+- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/6B3FTP9298HF)
+- [Udemy Data Science Bootcamp Certification](https://www.udemy.com/certificate/UC-cac5fd04-78b5-48da-9129-1267fd1c863a/)
+- [Natural Language Processing Certification](https://www.udemy.com/certificate/UC-9052efd1-cbd7-489b-9186-6048e47fdb1c/)
 - Business Intelligence & Data Analyst Training by AI Datayard
-- Python Specialisation by University of Michigan 
+- [Python Specialisation by University of Michigan](https://www.coursera.org/account/accomplishments/specialization/certificate/DA32K9VNN2WR)
 
 These certifications have equipped me with advanced skills in machine learning, big data analytics, and predictive modeling. Additionally, they have enhanced my expertise in statistical analysis, data visualization, and other key techniques, enabling me to extract valuable insights from vast amounts of data across multiple domains.
 
