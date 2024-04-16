@@ -29,7 +29,7 @@ Predictive Modeling and Forecasting:
 - Project 1: [Sports Analytics Using Regression Models Built using Numpy & Pandas](https://github.com/dtq94/Sports-Analytics-using-Regression-Models-from-Scratch){:target="_blank"}
 
 - Project 2: [Sports Analytics Using Multiple Linear Regression Model](https://github.com/dtq94/Sports-Analytics-using-Multiple-Linear-Regression-Model){:target="_blank"}
-- 
+
 - Project 3: [Customer Churn Predictive Analytics Using Logistic Regression Model](https://github.com/dtq94/Customer-Churn-Predictive-Analytics-using-Logistic-Regression-Model){:target="_blank"}
 
 
