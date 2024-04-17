@@ -49,9 +49,8 @@ Predictive Modeling and Forecasting:
 
 - Project 4: [NBA Players Scoring Analytics Using Polynomial Regression](https://github.com/dtq94/NBA-Scoring-Analytics-Understanding-Player-Performance-using-Polynomial-Regression){:target="_blank"}
 
-
 Exploratory Data Analysis (EDA) and Feature Engineering:
-Project 2: [Description of a significant EDA project demonstrating expertise in feature engineering and data preprocessing]
+Project 1: [Forecasting Multiclass Business Licensing Status](https://github.com/dtq94/License-Status-Preditiction-with-Multiclass-Classification){:target="_blank"}
 
 Machine Learning Applications:
 Project 3: [Additional project highlighting proficiency in machine learning techniques such as classification, regression, or clustering]
