@@ -6,12 +6,16 @@ As a petroleum engineer turned data scientist, I bring a diverse background in e
 
 #### Background
 - My journey began with a passion for understanding the intricate workings of the energy industry. Pursuing an Integrated Masters degree in Petroleum Engineering provided me with a comprehensive understanding of reservoir analysis, drilling operations, and production optimization. Throughout my academic journey, I delved into complex geological data, honing my analytical skills and developing a keen eye for detail.
+
 #### Transition to Data Science
 - While immersed in the world of petroleum engineering, I realized the power of data-driven decision-making in optimizing processes and maximizing efficiency. This realization sparked my interest in transitioning to the field of data science, where I could leverage my domain expertise and analytical skills to tackle diverse challenges.
+
 #### Skills and Expertise
 - As a petroleum engineer, I bring to the table a unique blend of analytical prowess, domain expertise in the energy sector, and a strong foundation in problem-solving. My experience in handling large datasets, conducting statistical analysis, and proficiency in programming languages like Python laid a solid foundation for my journey into data science.
+
 #### Adaptability and Learning Agility
 - The dynamic nature of the energy industry has equipped me with adaptability and learning agility, essential traits for mastering new data science techniques and technologies. I thrive in environments that demand quick thinking and innovative solutions, traits that are invaluable in the rapidly evolving field of data science.
+
 #### Why Data Science?
 - The allure of data science lies in its ability to unravel insights from complex datasets, driving informed decision-making and driving tangible impact. By harnessing the power of data, I am driven to make meaningful contributions in diverse domains and drive innovation in the ever-evolving landscape of technology and analytics.
 
