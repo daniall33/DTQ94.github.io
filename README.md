@@ -32,6 +32,8 @@ Predictive Modeling and Forecasting:
 
 - Project 3: [Customer Churn Predictive Analytics Using Logistic Regression Model](https://github.com/dtq94/Customer-Churn-Predictive-Analytics-using-Logistic-Regression-Model){:target="_blank"}
 
+- Project 4: [NBA Players Scoring Analytics Using Polynomial Regression](https://github.com/dtq94/NBA-Scoring-Analytics-Understanding-Player-Performance-using-Polynomial-Regression){:target="_blank"}
+
 
 Exploratory Data Analysis (EDA) and Feature Engineering:
 Project 2: [Description of a significant EDA project demonstrating expertise in feature engineering and data preprocessing]
