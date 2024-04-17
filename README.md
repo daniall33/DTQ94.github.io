@@ -2,7 +2,7 @@
 
 As a petroleum engineer turned data scientist, I bring a diverse background in engineering, a strong analytical mindset, and a passion for leveraging data to drive insights and innovation across various domains. With a foundation in petroleum engineering and a deep dive into the world of data science, I’m equipped to tackle complex challenges and deliver impactful solutions at the intersection of energy and analytics, as well as in other industries.
 
-## 📈**From Petroleum Engineering to Data Science**
+## 📈**From Petroleum Engineering to Data Science:**
 
 #### Background
 - My journey began with a passion for understanding the intricate workings of the energy industry. Pursuing an Integrated Masters degree in Petroleum Engineering provided me with a comprehensive understanding of reservoir analysis, drilling operations, and production optimization. Throughout my academic journey, I delved into complex geological data, honing my analytical skills and developing a keen eye for detail.
@@ -40,7 +40,7 @@ I have applied my expertise in both petroleum engineering and data science domai
 
 ## 🔍 GitHub Portfolio Highlights:
 
-Predictive Modeling and Forecasting:
+**`Predictive Modeling and Forecasting:`**
 - Project 1: [Sports Analytics Using Regression Models Built using Numpy & Pandas](https://github.com/dtq94/Sports-Analytics-using-Regression-Models-from-Scratch){:target="_blank"}
 
 - Project 2: [Sports Analytics Using Multiple Linear Regression Model](https://github.com/dtq94/Sports-Analytics-using-Multiple-Linear-Regression-Model){:target="_blank"}
@@ -49,7 +49,7 @@ Predictive Modeling and Forecasting:
 
 - Project 4: [NBA Players Scoring Analytics Using Polynomial Regression](https://github.com/dtq94/NBA-Scoring-Analytics-Understanding-Player-Performance-using-Polynomial-Regression){:target="_blank"}
 
-Exploratory Data Analysis (EDA) and Feature Engineering:
+**`Exploratory Data Analysis (EDA) and Feature Engineering:`**
 - Project 5: [Forecasting Multiclass Business Licensing Status](https://github.com/dtq94/License-Status-Preditiction-with-Multiclass-Classification){:target="_blank"}
 
 Machine Learning Applications:
