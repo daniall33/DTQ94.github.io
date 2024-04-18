@@ -50,7 +50,7 @@ I have applied my expertise in both petroleum engineering and data science domai
 - Project 4: [NBA Players Scoring Analytics Using Polynomial Regression](https://github.com/dtq94/NBA-Scoring-Analytics-Understanding-Player-Performance-using-Polynomial-Regression){:target="_blank"}
 
 **`Exploratory Data Analysis (EDA) and Feature Engineering:`**
-- Project 5: [Forecasting Multiclass Business Licensing Status](https://github.com/dtq94/License-Status-Preditiction-with-Multiclass-Classification){:target="_blank"}
+- Project 1: [Forecasting Multiclass Business Licensing Status](https://github.com/dtq94/License-Status-Preditiction-with-Multiclass-Classification){:target="_blank"}
 
 Machine Learning Applications:
 Project 3: [Additional project highlighting proficiency in machine learning techniques such as classification, regression, or clustering]
@@ -58,8 +58,9 @@ Project 3: [Additional project highlighting proficiency in machine learning tech
 Natural Language Processing (NLP) and Text Analytics:
 Project 4: [Brief description of an NLP project, showcasing techniques like sentiment analysis, topic modeling, or text classification]
 
-Time Series Analysis and Forecasting:
-Project 5: [Description of a project focused on time series analysis and forecasting, highlighting techniques used to model temporal data]
+**`Time Series Analysis and Forecasting:`**
+Project 1: [Sensor Data Predictive Analysis: Autoregressive Model](https://github.com/dtq94/Time-Series-Sensor-Data-Analysis-Forecasting-Autoregressive-Model){:target="_blank"}
+
 
 Deep Learning and Neural Networks:
 Project 6: [Brief description of a deep learning project, showcasing expertise in neural network architectures, such as CNNs or RNNs]
