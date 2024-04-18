@@ -59,7 +59,7 @@ Natural Language Processing (NLP) and Text Analytics:
 Project 4: [Brief description of an NLP project, showcasing techniques like sentiment analysis, topic modeling, or text classification]
 
 **`Time Series Analysis and Forecasting:`**
-Project 1: [Sensor Data Predictive Analysis: Autoregressive Model](https://github.com/dtq94/Time-Series-Sensor-Data-Analysis-Forecasting-Autoregressive-Model){:target="_blank"}
+- Project 1: [Sensor Data Predictive Analysis: Autoregressive Model](https://github.com/dtq94/Time-Series-Sensor-Data-Analysis-Forecasting-Autoregressive-Model){:target="_blank"}
 
 
 Deep Learning and Neural Networks:
