@@ -82,7 +82,7 @@ My GitHub portfolio reflects not only my past achievements but also my commitmen
 
 ## 🤝 Let’s Connect!:
 I’m passionate about leveraging data to drive positive change across industries and am always eager to collaborate, network, and share insights. Whether you’re looking to discuss industry trends, explore potential projects, or simply connect with like-minded professionals, feel free to reach out!
-- [`Linkedin Profile`](https://www.linkedin.com/in/dtq94/https://www.linkedin.com/in/dtq94/)
+- [`Linkedin Profile`](https://www.linkedin.com/in/dtq94/)
 - [`Personal Blog`](https://thepositiverealist.wordpress.com/)
 
 
