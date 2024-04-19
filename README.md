@@ -49,6 +49,8 @@ I have applied my expertise in both petroleum engineering and data science domai
 
 - Project 4: [NBA Players Scoring Analytics Using Polynomial Regression](https://github.com/dtq94/NBA-Scoring-Analytics-Understanding-Player-Performance-using-Polynomial-Regression){:target="_blank"}
 
+- Project 5: [Streaming App Churn Analysis: Harnessing Decision Trees](https://github.com/dtq94/Streaming-App-Churn-Analysis-Harnessing-Decision-Trees-for-Predictive-Insights){:target="_blank"}
+
 **`Exploratory Data Analysis (EDA) and Feature Engineering:`**
 - Project 1: [Forecasting Multiclass Business Licensing Status](https://github.com/dtq94/License-Status-Preditiction-with-Multiclass-Classification){:target="_blank"}
 
