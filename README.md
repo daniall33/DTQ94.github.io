@@ -26,11 +26,11 @@ Building on my engineering background, I pursued specialized training in data sc
 
 These certifications include:
 
-- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/6B3FTP9298HF)<!--{:target="_blank"}-->
-- [Udemy Data Science Bootcamp Certification](https://www.udemy.com/certificate/UC-cac5fd04-78b5-48da-9129-1267fd1c863a/)<!--{:target="_blank"}-->
-- [Natural Language Processing Certification](https://www.udemy.com/certificate/UC-9052efd1-cbd7-489b-9186-6048e47fdb1c/)<!--{:target="_blank"}-->
+- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/6B3FTP9298HF){:target="_blank"}
+- [Udemy Data Science Bootcamp Certification](https://www.udemy.com/certificate/UC-cac5fd04-78b5-48da-9129-1267fd1c863a/){:target="_blank"}
+- [Natural Language Processing Certification](https://www.udemy.com/certificate/UC-9052efd1-cbd7-489b-9186-6048e47fdb1c/){:target="_blank"}
 - Business Intelligence & Data Analyst Training by AI Datayard
-- [Python Specialisation by University of Michigan](https://www.coursera.org/account/accomplishments/specialization/certificate/DA32K9VNN2WR)<!--{:target="_blank"}-->
+- [Python Specialisation by University of Michigan](https://www.coursera.org/account/accomplishments/specialization/certificate/DA32K9VNN2WR){:target="_blank"}
 
 These certifications have equipped me with advanced skills in machine learning, big data analytics, and predictive modeling. Additionally, they have enhanced my expertise in statistical analysis, data visualization, and other key techniques, enabling me to extract valuable insights from vast amounts of data across multiple domains.
 
@@ -59,26 +59,26 @@ I have applied my expertise in both petroleum engineering and data science domai
 **`Machine Learning Applications:`**
 - Project 1: [Advanced Realestate Predictive Analysis: Leveraging Machine Learning](https://github.com/dtq94/Advanced-House-Price-Prediction-Leveraging-Machine-Learning-){:target="_blank"}
 
-Natural Language Processing (NLP) and Text Analytics:
+**`Natural Language Processing (NLP) and Text Analytics:`**
 Project 1 : 
 
 **`Time Series Analysis and Forecasting:`**
 - Project 1: [Sensor Data Predictive Analysis: Autoregressive Model](https://github.com/dtq94/Time-Series-Sensor-Data-Analysis-Forecasting-Autoregressive-Model){:target="_blank"}
 
 
-Deep Learning and Neural Networks:
+**`Deep Learning and Neural Networks:`**
 Project 6: <!--[Brief description of a deep learning project, showcasing expertise in neural network architectures, such as CNNs or RNNs]-->
 
-Big Data Analytics and Scalable Solutions:
+**`Big Data Analytics and Scalable Solutions:`**
 Project 7: <!--[Description of a project involving big data analytics techniques and scalable solutions, demonstrating proficiency in handling large datasets]-->
 
-Data Visualization and Storytelling:
+**`Data Visualization and Storytelling:`**
 Project 8: <!--[Brief description of a project emphasizing data visualization techniques to communicate insights effectively]-->
 
-Anomaly Detection and Outlier Analysis:
+**`Anomaly Detection and Outlier Analysis:`**
 Project 9: <!--[Description of a project focused on anomaly detection, showcasing techniques used to identify outliers and unusual patterns]-->
 
-Model Deployment and Productionization:
+**`Model Deployment and Productionization:`**
 Project 10: <!--[Brief description of a project involving the deployment of machine learning models into production environments]-->
 
 ## 📈 Continuous Learning and Growth:
