@@ -53,6 +53,13 @@ I have applied my expertise in both petroleum engineering and data science domai
 
 - Project 6: [Space Exploration with Data Science](https://github.com/dtq94/Space-Exploration-with-Data-Science){:target="_blank"}
 
+- Project 7: [Customer Propensity Modeling: RFM Analysis](https://github.com/dtq94/Customer-Propensity-Modeling-RFM-Analysis){:target="_blank"}
+
+- Project 8: [Rossman Store Predictive Analysis](https://github.com/dtq94/Rossman-Store-Sales-Forecast){:target="_blank"}
+
+- Project 9: [Insurance Claims Severity: Predictive Analysis](https://github.com/dtq94/Insurance-Claims-Severity-Predictive-Analysis-){:target="_blank"}
+
+
 **`Exploratory Data Analysis (EDA) and Feature Engineering:`**
 - Project 1: [Forecasting Multiclass Business Licensing Status](https://github.com/dtq94/License-Status-Preditiction-with-Multiclass-Classification){:target="_blank"}
 
