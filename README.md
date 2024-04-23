@@ -46,7 +46,7 @@ These certifications have equipped me with advanced skills in machine learning, 
 
 Throughout my career, I've had the privilege of blending my expertise in both petroleum engineering and data science across a multitude of professional endeavors. From fine-tuning drilling operations and implementing strategic reservoir management techniques to delving into the intricacies of production data analysis and preemptively predicting equipment failures within the energy sector, I've navigated the complexities of diverse industries with ease. Beyond the realm of petroleum engineering, I've seamlessly translated my data science skills into the realms of finance, healthcare, marketing, and beyond. This rich and varied journey has not only broadened my technical acumen but has also cultivated my knack for tailoring data-driven solutions to suit the unique challenges presented by different industries and problem domains.
 
-My tenure at MSR Group was marked by a diverse array of projects spanning across multiple industries, each presenting unique challenges and opportunities. Leveraging my expertise in data science, I spearheaded initiatives aimed at optimizing processes, uncovering insights, and driving actionable outcomes. I led initiatives in the marketing domain, where I applied data-driven methodologies to optimize marketing campaigns and enhance customer segmentation strategies. By analyzing customer behavior and engagement metrics, we were able to tailor marketing initiatives more effectively, driving higher engagement and conversion rates for our clients.
+My tenure at *MSR Group* was marked by a diverse array of projects spanning across multiple industries, each presenting unique challenges and opportunities. Leveraging my expertise in data science, I spearheaded initiatives aimed at optimizing processes, uncovering insights, and driving actionable outcomes. I led initiatives in the marketing domain, where I applied data-driven methodologies to optimize marketing campaigns and enhance customer segmentation strategies. By analyzing customer behavior and engagement metrics, we were able to tailor marketing initiatives more effectively, driving higher engagement and conversion rates for our clients.
 
 ## 🔍 GitHub Portfolio Highlights:
 
@@ -75,8 +75,11 @@ My tenure at MSR Group was marked by a diverse array of projects spanning across
 
 **`Machine Learning Applications:`**
 - Project 1: [Advanced Realestate Predictive Analysis: Leveraging Machine Learning](https://github.com/dtq94/Advanced-House-Price-Prediction-Leveraging-Machine-Learning-){:target="_blank"}
+
 - Project 2: [Loan Eligibility Forecast: GBM](https://github.com/dtq94/Loan-Eligibility-Forecast-Gradient-Booster-Classifier){:target="_blank"}
+  
 - Project 3: [Insurance Pricing Forecast: XGBoost Regressor](https://github.com/dtq94/XGBoost-for-Insurance-Pricing-Predicting-Healthcare-Expenses){:target="_blank"}
+  
 - Project 4: [Drilling Rate of Penetration Forecasting](https://github.com/dtq94/Drilling-ROP-Prediction){:target="_blank"}
 
 **`Natural Language Processing (NLP) and Text Analytics:`**
@@ -84,6 +87,7 @@ My tenure at MSR Group was marked by a diverse array of projects spanning across
 
 **`Time Series Analysis and Forecasting:`**
 - Project 1: [Sensor Data Predictive Analysis: Autoregressive Model](https://github.com/dtq94/Time-Series-Sensor-Data-Analysis-Forecasting-Autoregressive-Model){:target="_blank"}
+  
 - Project 2: [Ride Service Demand Request Forecasting: Multistep time series model](https://github.com/dtq94/Ride-Service-Demand-Forecast-Multistep-time-series-model){:target="_blank"}
 
 **`Deep Learning and Neural Networks:`**
