@@ -3,11 +3,11 @@
 As a petroleum engineer turned data scientist, I bring a diverse background in engineering, a strong analytical mindset, and a passion for leveraging data to drive insights and innovation across various domains. With a foundation in petroleum engineering and a deep dive into the world of data science, I’m equipped to tackle complex challenges and deliver impactful solutions at the intersection of energy and analytics, as well as in other industries.
 
 # Content
-1. [From Petroleum Engineeting to Data Science](#From Petroleum Engineering to Data Science)
-2. [Experience](#Experience)
-3. [Portfolio](#GitHub Portfolio Highlight)
-4. [Growth & Learning](#Continuous Learning and Growth)
-5. [Contact Details](#Let’s Connect!)
+1. [From Petroleum Engineering to Data Science](#from-petroleum-engineering-to-data-science)
+2. [Experience](#experience)
+3. [Portfolio](#gitHub-portfolio-highlight)
+4. [Growth & Learning](#continuous-learning-and-growth)
+5. [Contact Details](#let’s-connect!)
 
 ## 📈**From Petroleum Engineering to Data Science:**
 
