@@ -36,7 +36,10 @@ These certifications have equipped me with advanced skills in machine learning, 
 
 
 ## 💼 Experience:
-I have applied my expertise in both petroleum engineering and data science domains through various professional experiences. From optimizing drilling operations and reservoir management to analyzing production data and predicting equipment failures in the energy sector, I have also successfully applied data science skills in finance, healthcare, marketing, and beyond. This diverse experience has honed my ability to adapt data-driven approaches to different industries and problem domains.
+
+Throughout my career, I've had the privilege of blending my expertise in both petroleum engineering and data science across a multitude of professional endeavors. From fine-tuning drilling operations and implementing strategic reservoir management techniques to delving into the intricacies of production data analysis and preemptively predicting equipment failures within the energy sector, I've navigated the complexities of diverse industries with ease. Beyond the realm of petroleum engineering, I've seamlessly translated my data science skills into the realms of finance, healthcare, marketing, and beyond. This rich and varied journey has not only broadened my technical acumen but has also cultivated my knack for tailoring data-driven solutions to suit the unique challenges presented by different industries and problem domains.
+
+My tenure at MSR Group was marked by a diverse array of projects spanning across multiple industries, each presenting unique challenges and opportunities. Leveraging my expertise in data science, I spearheaded initiatives aimed at optimizing processes, uncovering insights, and driving actionable outcomes. I led initiatives in the marketing domain, where I applied data-driven methodologies to optimize marketing campaigns and enhance customer segmentation strategies. By analyzing customer behavior and engagement metrics, we were able to tailor marketing initiatives more effectively, driving higher engagement and conversion rates for our clients.
 
 ## 🔍 GitHub Portfolio Highlights:
 
@@ -67,6 +70,7 @@ I have applied my expertise in both petroleum engineering and data science domai
 - Project 1: [Advanced Realestate Predictive Analysis: Leveraging Machine Learning](https://github.com/dtq94/Advanced-House-Price-Prediction-Leveraging-Machine-Learning-){:target="_blank"}
 - Project 2: [Loan Eligibility Forecast: GBM](https://github.com/dtq94/Loan-Eligibility-Forecast-Gradient-Booster-Classifier){:target="_blank"}
 - Project 3: [Insurance Pricing Forecast: XGBoost Regressor](https://github.com/dtq94/XGBoost-for-Insurance-Pricing-Predicting-Healthcare-Expenses){:target="_blank"}
+- Project 4: [Drilling Rate of Penetration Forecasting](https://github.com/dtq94/Drilling-ROP-Prediction){:target="_blank"}
 
 **`Natural Language Processing (NLP) and Text Analytics:`**
 - Project 1 : [Sentiment Analysis of Movie Reviews: NLTK](https://github.com/dtq94/Reviews-Sentiment-Analysis-NLTK-/tree/main){:target="_blank"}
@@ -79,16 +83,16 @@ I have applied my expertise in both petroleum engineering and data science domai
 Project 1: [Credit Score Prediction: Identifying Potential Defaulters](https://github.com/dtq94/Credit-Score-Prediction-Identify-Potential-Defaulters){:target="_blank"}
 
 **`Big Data Analytics and Scalable Solutions:`**
-Project 7: <!--[Description of a project involving big data analytics techniques and scalable solutions, demonstrating proficiency in handling large datasets]-->
+Project 1: <!--[hadahoop, apacha spark, traffic recognition][Description of a project involving big data analytics techniques and scalable solutions, demonstrating proficiency in handling large datasets]-->
 
 **`Data Visualization and Storytelling:`**
-Project 8: <!--[Dashboards][Brief description of a project emphasizing data visualization techniques to communicate insights effectively]-->
+Project 2: <!--[Dashboards][Brief description of a project emphasizing data visualization techniques to communicate insights effectively]-->
 
 **`Anomaly Detection and Outlier Analysis:`**
-Project 9: <!--[Description of a project focused on anomaly detection, showcasing techniques used to identify outliers and unusual patterns]-->
+Project 3: <!--[Description of a project focused on anomaly detection, showcasing techniques used to identify outliers and unusual patterns]-->
 
 **`Model Deployment and Productionization:`**
-Project 10: <!--[Flask,docker, cloud][Brief description of a project involving the deployment of machine learning models into production environments]-->
+Project 4: <!--[Flask,docker, cloud][Brief description of a project involving the deployment of machine learning models into production environments]-->
 
 ## 📈 Continuous Learning and Growth:
 My GitHub portfolio reflects not only my past achievements but also my commitment to continuous learning and growth. I am dedicated to staying updated on the latest advancements in data science, exploring new technologies, and contributing to open-source projects to drive innovation across multiple sectors.
