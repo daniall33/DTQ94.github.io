@@ -5,9 +5,9 @@ As a petroleum engineer turned data scientist, I bring a diverse background in e
 # Content
 1. [From Petroleum Engineering to Data Science](#from-petroleum-engineering-to-data-science)
 2. [Experience](#experience)
-3. [Portfolio](#gitHub-portfolio-highlight)
-4. [Growth & Learning](#continuous-learning-and-growth)
-5. [Contact Details](#let’s-connect!)
+2. [GitHub Portfolio Highlights](#github-portfolio-highlights)
+3. [Continuous Learning and Growth](#continuous-learning-and-growth)
+4. [Let’s Connect!](#lets-connect)
 
 ## 📈**From Petroleum Engineering to Data Science:**
 
