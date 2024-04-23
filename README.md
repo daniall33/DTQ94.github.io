@@ -65,28 +65,30 @@ I have applied my expertise in both petroleum engineering and data science domai
 
 **`Machine Learning Applications:`**
 - Project 1: [Advanced Realestate Predictive Analysis: Leveraging Machine Learning](https://github.com/dtq94/Advanced-House-Price-Prediction-Leveraging-Machine-Learning-){:target="_blank"}
+- Project 2: [Loan Eligibility Forecast: GBM](https://github.com/dtq94/Loan-Eligibility-Forecast-Gradient-Booster-Classifier){:target="_blank"}
+- Project 3: [Insurance Pricing Forecast: XGBoost Regressor](https://github.com/dtq94/XGBoost-for-Insurance-Pricing-Predicting-Healthcare-Expenses){:target="_blank"}
 
 **`Natural Language Processing (NLP) and Text Analytics:`**
-Project 1 : 
+- Project 1 : [Sentiment Analysis of Movie Reviews: NLTK](https://github.com/dtq94/Reviews-Sentiment-Analysis-NLTK-/tree/main){:target="_blank"}
 
 **`Time Series Analysis and Forecasting:`**
 - Project 1: [Sensor Data Predictive Analysis: Autoregressive Model](https://github.com/dtq94/Time-Series-Sensor-Data-Analysis-Forecasting-Autoregressive-Model){:target="_blank"}
-
+- Project 2: [Ride Service Demand Request Forecasting: Multistep time series model](https://github.com/dtq94/Ride-Service-Demand-Forecast-Multistep-time-series-model){:target="_blank"}
 
 **`Deep Learning and Neural Networks:`**
-Project 6: <!--[Brief description of a deep learning project, showcasing expertise in neural network architectures, such as CNNs or RNNs]-->
+Project 1: [Credit Score Prediction: Identifying Potential Defaulters](https://github.com/dtq94/Credit-Score-Prediction-Identify-Potential-Defaulters){:target="_blank"}
 
 **`Big Data Analytics and Scalable Solutions:`**
 Project 7: <!--[Description of a project involving big data analytics techniques and scalable solutions, demonstrating proficiency in handling large datasets]-->
 
 **`Data Visualization and Storytelling:`**
-Project 8: <!--[Brief description of a project emphasizing data visualization techniques to communicate insights effectively]-->
+Project 8: <!--[Dashboards][Brief description of a project emphasizing data visualization techniques to communicate insights effectively]-->
 
 **`Anomaly Detection and Outlier Analysis:`**
 Project 9: <!--[Description of a project focused on anomaly detection, showcasing techniques used to identify outliers and unusual patterns]-->
 
 **`Model Deployment and Productionization:`**
-Project 10: <!--[Brief description of a project involving the deployment of machine learning models into production environments]-->
+Project 10: <!--[Flask,docker, cloud][Brief description of a project involving the deployment of machine learning models into production environments]-->
 
 ## 📈 Continuous Learning and Growth:
 My GitHub portfolio reflects not only my past achievements but also my commitment to continuous learning and growth. I am dedicated to staying updated on the latest advancements in data science, exploring new technologies, and contributing to open-source projects to drive innovation across multiple sectors.
