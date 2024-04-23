@@ -4,10 +4,10 @@ As a petroleum engineer turned data scientist, I bring a diverse background in e
 
 # Content
 1. [From Petroleum Engineering to Data Science](#from-petroleum-engineering-to-data-science)
-2. [Experience](https://github.com/dtq94/dtq94.github.io/blob/main/README.md#-experience)
-2. [GitHub Portfolio Highlights](https://github.com/dtq94/dtq94.github.io/blob/main/README.md#-github-portfolio-highlights)
-3. [Continuous Learning and Growth](#continuous-learning-and-growth)
-4. [Let’s Connect!](https://github.com/dtq94/dtq94.github.io/blob/main/README.md#-lets-connect)
+2. [Experience](#-experience)
+2. [GitHub Portfolio Highlights](https://dtq94.github.io/#-github-portfolio-highlights)
+3. [Continuous Learning and Growth](https://dtq94.github.io/#-continuous-learning-and-growth)
+4. [Let’s Connect!](https://dtq94.github.io/#-lets-connect)
 
 ## 📈**From Petroleum Engineering to Data Science:**
 
