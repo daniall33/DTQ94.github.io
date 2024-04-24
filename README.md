@@ -82,6 +82,8 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
   
 - Project 4: [Drilling Rate of Penetration Forecasting](https://github.com/dtq94/Drilling-ROP-Prediction){:target="_blank"}
 
+- Project 5: [Credit Card Fraud Detection: sklearn & snapml](https://github.com/dtq94/Credit-Card-Fraud-Detection-SKLearn-SnapML){:target="_blank"}
+
 **`Natural Language Processing (NLP) and Text Analytics:`**
 - Project 1 : [Sentiment Analysis of Movie Reviews: NLTK](https://github.com/dtq94/Reviews-Sentiment-Analysis-NLTK-/tree/main){:target="_blank"}
 
@@ -91,19 +93,19 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
 - Project 2: [Ride Service Demand Request Forecasting: Multistep time series model](https://github.com/dtq94/Ride-Service-Demand-Forecast-Multistep-time-series-model){:target="_blank"}
 
 **`Deep Learning and Neural Networks:`**
-Project 1: [Credit Score Prediction: Identifying Potential Defaulters](https://github.com/dtq94/Credit-Score-Prediction-Identify-Potential-Defaulters){:target="_blank"}
+- Project 1: [Credit Score Prediction: Identifying Potential Defaulters](https://github.com/dtq94/Credit-Score-Prediction-Identify-Potential-Defaulters){:target="_blank"}
 
 **`Big Data Analytics and Scalable Solutions:`**
-Project 1: <!--[hadahoop, apacha spark, traffic recognition][Description of a project involving big data analytics techniques and scalable solutions, demonstrating proficiency in handling large datasets]-->
+- Project 1: <!--[hadahoop, apacha spark, traffic recognition][Description of a project involving big data analytics techniques and scalable solutions, demonstrating proficiency in handling large datasets]-->
 
 **`Data Visualization and Storytelling:`**
-Project 2: <!--[Dashboards][Brief description of a project emphasizing data visualization techniques to communicate insights effectively]-->
+- Project 1: <!--[Dashboards][Brief description of a project emphasizing data visualization techniques to communicate insights effectively]-->
 
 **`Anomaly Detection and Outlier Analysis:`**
-Project 3: <!--[Description of a project focused on anomaly detection, showcasing techniques used to identify outliers and unusual patterns]-->
+- Project 1: <!--[Description of a project focused on anomaly detection, showcasing techniques used to identify outliers and unusual patterns]-->
 
 **`Model Deployment and Productionization:`**
-Project 4: <!--[Flask,docker, cloud][Brief description of a project involving the deployment of machine learning models into production environments]-->
+- Project 1: <!--[Flask,docker, cloud][Brief description of a project involving the deployment of machine learning models into production environments]-->
 
 ## 📈 Continuous Learning and Growth:
 My GitHub portfolio reflects not only my past achievements but also my commitment to continuous learning and growth. I am dedicated to staying updated on the latest advancements in data science, exploring new technologies, and contributing to open-source projects to drive innovation across multiple sectors.
