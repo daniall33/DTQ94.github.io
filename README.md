@@ -99,7 +99,7 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
 - Project 1: <!--[hadahoop, apacha spark, traffic recognition][Description of a project involving big data analytics techniques and scalable solutions, demonstrating proficiency in handling large datasets]-->
 
 **`Data Visualization and Storytelling:`**
-- Project 1: <!--[Dashboards][Brief description of a project emphasizing data visualization techniques to communicate insights effectively]-->
+- Project 1: [Flight Performance Analysis Dashboard: Plotly & Dash](https://github.com/dtq94/Flight-Performace-Analysis-Dashboard-Plotly-Dash){:target="_blank"}
 
 **`Anomaly Detection and Outlier Analysis:`**
 - Project 1: <!--[Description of a project focused on anomaly detection, showcasing techniques used to identify outliers and unusual patterns]-->
