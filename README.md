@@ -1,4 +1,4 @@
-# 🚀 Welcome to My Data Science Journey!
+# 🚀 **Welcome to My Data Science Journey!**
 
 As a petroleum engineer turned data scientist, I bring a diverse background in engineering, a strong analytical mindset, and a passion for leveraging data to drive insights and innovation across various domains. With a foundation in petroleum engineering and a deep dive into the world of data science, I’m equipped to tackle complex challenges and deliver impactful solutions at the intersection of energy and analytics, as well as in other industries.
 
@@ -92,7 +92,7 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
 
 - Project 2: [Renewable Energy Generation Forecast: Modeling & Deployment](https://github.com/dtq94/Renewable-Energy-Generation-Forecast-modeling-flask-deployment){:target="_blank"}
   
-- Project 2: [Ride Service Demand Request Forecasting: Multistep time series model](https://github.com/dtq94/Ride-Service-Demand-Forecast-Multistep-time-series-model){:target="_blank"}
+- Project 3: [Ride Service Demand Request Forecasting: Multistep time series model](https://github.com/dtq94/Ride-Service-Demand-Forecast-Multistep-time-series-model){:target="_blank"}
 
 **`Deep Learning and Neural Networks:`**
 - Project 1: [Credit Score Prediction: Identifying Potential Defaulters](https://github.com/dtq94/Credit-Score-Prediction-Identify-Potential-Defaulters){:target="_blank"}
@@ -108,7 +108,7 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
 
 **`Model Deployment and Productionization:`**
 - Project 1: [Renewable Energy Generation Forecast: Modeling & Deployment](https://github.com/dtq94/Renewable-Energy-Generation-Forecast-modeling-flask-deployment){:target="_blank"}
-  
+
 
 ## 📈 Continuous Learning and Growth:
 My GitHub portfolio reflects not only my past achievements but also my commitment to continuous learning and growth. I am dedicated to staying updated on the latest advancements in data science, exploring new technologies, and contributing to open-source projects to drive innovation across multiple sectors.
