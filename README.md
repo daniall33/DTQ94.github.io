@@ -89,6 +89,8 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
 
 **`Time Series Analysis and Forecasting:`**
 - Project 1: [Sensor Data Predictive Analysis: Autoregressive Model](https://github.com/dtq94/Time-Series-Sensor-Data-Analysis-Forecasting-Autoregressive-Model){:target="_blank"}
+
+- Project 2: [Renewable Energy Generation Forecast: Modeling & Deployment](https://github.com/dtq94/Renewable-Energy-Generation-Forecast-modeling-flask-deployment){:target="_blank"}
   
 - Project 2: [Ride Service Demand Request Forecasting: Multistep time series model](https://github.com/dtq94/Ride-Service-Demand-Forecast-Multistep-time-series-model){:target="_blank"}
 
@@ -105,7 +107,8 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
 - Project 1: <!--[Description of a project focused on anomaly detection, showcasing techniques used to identify outliers and unusual patterns]-->
 
 **`Model Deployment and Productionization:`**
-- Project 1: <!--[Flask,docker, cloud][Brief description of a project involving the deployment of machine learning models into production environments]-->
+- Project 1: [Renewable Energy Generation Forecast: Modeling & Deployment](https://github.com/dtq94/Renewable-Energy-Generation-Forecast-modeling-flask-deployment){:target="_blank"}
+  
 
 ## 📈 Continuous Learning and Growth:
 My GitHub portfolio reflects not only my past achievements but also my commitment to continuous learning and growth. I am dedicated to staying updated on the latest advancements in data science, exploring new technologies, and contributing to open-source projects to drive innovation across multiple sectors.
