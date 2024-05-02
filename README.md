@@ -86,9 +86,9 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
 
 **`Natural Language Processing (NLP) and Text Analytics:`**
 - Project 1 : [Sentiment Analysis of Movie Reviews: NLTK](https://github.com/dtq94/Reviews-Sentiment-Analysis-NLTK-/tree/main){:target="_blank"}
-- 
+  
 - Project 2: [HR Analytics: NER Resume Parsing Using Spacy](..){:target="_blank"}
-- 
+  
 - Project 3: [Sentiment Detection and Text Generation with LSTM Model](..){:target="_blank"}
 
 - Project 4: [Customer Support Bot: LLM Model](..){:target="_blank"}
@@ -103,7 +103,7 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
 
 **`Deep Learning and Neural Networks:`**
 - Project 1: [Credit Score Prediction: Identifying Potential Defaulters](https://github.com/dtq94/Credit-Score-Prediction-Identify-Potential-Defaulters){:target="_blank"}
-- 
+  
 - Project 2: [Realestate Analytics: Using Neural Network built with Numpy](..){:target="_blank"}
 
 
