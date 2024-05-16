@@ -48,6 +48,7 @@ Throughout my career, I've had the privilege of blending my expertise in both pe
 
 My tenure at *MSR Group* was marked by a diverse array of projects spanning across multiple industries, each presenting unique challenges and opportunities. Leveraging my expertise in data science, I spearheaded initiatives aimed at optimizing processes, uncovering insights, and driving actionable outcomes. I led initiatives in the marketing domain, where I applied data-driven methodologies to optimize marketing campaigns and enhance customer segmentation strategies. By analyzing customer behavior and engagement metrics, we were able to tailor marketing initiatives more effectively, driving higher engagement and conversion rates for our clients.
 
+
 ## 🔍 GitHub Portfolio Highlights:
 
 **`Predictive Modeling and Forecasting:`**
@@ -69,7 +70,6 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
 
 - Project 9: [Insurance Claims Severity: Predictive Analysis](https://github.com/dtq94/Insurance-Claims-Severity-Predictive-Analysis-){:target="_blank"}
 
-
 **`Exploratory Data Analysis (EDA) and Feature Engineering:`**
 - Project 1: [Forecasting Multiclass Business Licensing Status](https://github.com/dtq94/License-Status-Preditiction-with-Multiclass-Classification){:target="_blank"}
 
@@ -87,12 +87,11 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
 **`Natural Language Processing (NLP) and Text Analytics:`**
 - Project 1 : [Sentiment Analysis of Movie Reviews: NLTK](https://github.com/dtq94/Reviews-Sentiment-Analysis-NLTK-/tree/main){:target="_blank"}
   
-- Project 2: [HR Analytics: NER Resume Parsing Using Spacy](..){:target="_blank"}
+- Project 2: [HR Analytics: NER Resume Parsing Using Spacy](https://github.com/dtq94/Resume-Parsing-using-Spacy-NER){:target="_blank"}
   
 - Project 3: [Sentiment Detection and Text Generation with LSTM Model](https://github.com/dtq94/Sentiment-Analysis-Text-Generation-with-LSTM-Neural-Network-){:target="_blank"}
 
 - Project 4: [Customer Support Bot: LLM Model](..){:target="_blank"}
-
 
 **`Time Series Analysis and Forecasting:`**
 - Project 1: [Sensor Data Predictive Analysis: Autoregressive Model](https://github.com/dtq94/Time-Series-Sensor-Data-Analysis-Forecasting-Autoregressive-Model){:target="_blank"}
@@ -106,16 +105,14 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
   
 - Project 2: [Realestate Analytics: Using Neural Network built with Numpy](..){:target="_blank"}
 
-
-**`Big Data Analytics and Scalable Solutions:`**
-- Project 1: <!--[hadahoop, apacha spark, traffic recognition][Description of a project involving big data analytics techniques and scalable solutions, demonstrating proficiency in handling large datasets]-->
+<!--**`Big Data Analytics and Scalable Solutions:`**
+- Project 1: [hadahoop, apacha spark, traffic recognition][Description of a project involving big data analytics techniques and scalable solutions, demonstrating proficiency in handling large datasets]-->
 
 **`Data Visualization and Storytelling:`**
 - Project 1: [Flight Performance Analysis Dashboard: Plotly & Dash](https://github.com/dtq94/Flight-Performance-Analysis-Dashboard-Plotly-Dash){:target="_blank"}
 
 **`Anomaly Detection and Outlier Analysis:`**
 - Project 1: [Deep Autoencoders model for Anomaly Detection: TensorFlow](https://github.com/dtq94/Anomaly-Detection-using-Deep-Autoencoders-Model-Tensor-Flow){:target="_blank"}
-
 
 **`Model Deployment and Productionization:`**
 - Project 1: [Renewable Energy Generation Forecast: Modeling & Deployment](https://github.com/dtq94/Renewable-Energy-Generation-Forecast-modeling-flask-deployment){:target="_blank"}
