@@ -89,7 +89,7 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
   
 - Project 2: [HR Analytics: NER Resume Parsing Using Spacy](..){:target="_blank"}
   
-- Project 3: [Sentiment Detection and Text Generation with LSTM Model](..){:target="_blank"}
+- Project 3: [Sentiment Detection and Text Generation with LSTM Model](https://github.com/dtq94/Sentiment-Analysis-Text-Generation-with-LSTM-Neural-Network-){:target="_blank"}
 
 - Project 4: [Customer Support Bot: LLM Model](..){:target="_blank"}
 
