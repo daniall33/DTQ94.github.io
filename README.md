@@ -114,7 +114,7 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
 - Project 1: [Flight Performance Analysis Dashboard: Plotly & Dash](https://github.com/dtq94/Flight-Performance-Analysis-Dashboard-Plotly-Dash){:target="_blank"}
 
 **`Anomaly Detection and Outlier Analysis:`**
-- Project 1: [Deep Autoencoders model for Anomaly Detection: TensorFlow](..){:target="_blank"}
+- Project 1: [Deep Autoencoders model for Anomaly Detection: TensorFlow](https://github.com/dtq94/Anomaly-Detection-using-Deep-Autoencoders-Model-Tensor-Flow){:target="_blank"}
 
 
 **`Model Deployment and Productionization:`**
