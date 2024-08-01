@@ -1,7 +1,7 @@
 # 🚀 **Welcome to My Data Science Journey!**
 
 <audio controls>
-  <source src="https://github.com/dtq94/dtq94.github.io/blob/main/githubintro.mp3" type="audio/mpeg">
+  <source src="(https://github.com/dtq94/dtq94.github.io/blob/main/githubintro.mp3)" type="audio/mp3">
 </audio>
 
 
