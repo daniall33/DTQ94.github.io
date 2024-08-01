@@ -4,7 +4,6 @@
   <source src="https://drive.google.com/file/d/1cjTO2lEQEu1NbkioCmuiYfcp7oMn7mMS/view?usp=drive_link" type="audio/m4a">
 </audio>
 
-<iframe src="https://drive.google.com/file/d/1cjTO2lEQEu1NbkioCmuiYfcp7oMn7mMS/preview" width="640" height="480" allow="autoplay"></iframe>
 
 As a petroleum engineer turned data scientist, I bring a diverse background in engineering, a strong analytical mindset, and a passion for leveraging data to drive insights and innovation across various domains. With a foundation in petroleum engineering and a deep dive into the world of data science, I’m equipped to tackle complex challenges and deliver impactful solutions at the intersection of energy and analytics, as well as in other industries.
 
