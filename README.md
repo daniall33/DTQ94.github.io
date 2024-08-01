@@ -1,7 +1,7 @@
 # 🚀 **Welcome to My Data Science Journey!**
 
 <audio controls>
-  <source src="https://drive.google.com/file/d/1855WNDH-JSokNyrZuBiTFRp2WicdWUK9/view?usp=sharing" type="audio/mp3">
+  <source src="https://drive.google.com/file/d/1855WNDH-JSokNyrZuBiTFRp2WicdWUK9/view?usp=sharing" type="audio/mpeg">
 </audio>
 
 
