@@ -77,6 +77,8 @@ My tenure at *MSR Group* was marked by a diverse array of projects spanning acro
 
 - Project 9: [Insurance Claims Severity: Predictive Analysis](https://github.com/dtq94/Insurance-Claims-Severity-Predictive-Analysis-){:target="_blank"}
 
+-  Project 10: [Ice Hockey: Harnessing Data for Strategic Advantage](https://github.com/dtq94/Ice-Hockey-Sports-Analytics-Harnessing-Data-for-Strategic-Advantage){:target="_blank"}
+
 **`Exploratory Data Analysis (EDA) and Feature Engineering:`**
 - Project 1: [Forecasting Multiclass Business Licensing Status](https://github.com/dtq94/License-Status-Preditiction-with-Multiclass-Classification){:target="_blank"}
 
